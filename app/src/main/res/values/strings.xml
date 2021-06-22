@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Github Users Search</string>
+    <string name="search">Search</string>
+    <string name="username">Username</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repository">Repository</string>
+    <string name="detail_title">Detail User</string>
+    <string name="not_found">User Not Found</string>
+
+    <string name="change_language">Change Language</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="find_username">Find Username</string>
+    <string name="change_setting">Change Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="daily_reminder">Daily Reminder</string>
+    <string name="desc_reminder">Daily reminder to return to the application that is running at 09.00 AM.</string>
+    <string name="desc_language">You will change the language</string>
+    <string name="reminder_message">Lets find user popular user on Github.</string>
+    <string name="add_to_favorite">Add To Favorite</string>
+    <string name="delete_from_favorite">Delete from favorite</string>
+    <string name="user_favorite">User Favorite</string>
+
+
+</resources>
